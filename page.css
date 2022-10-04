@@ -1,0 +1,255 @@
+body{
+  background-color: rgba(242, 246, 255, 1);
+  padding: 0;
+  margin: 0;
+}
+
+header{
+  overflow:hidden;
+  height: 898px;
+  background-color:  rgba(242, 246, 255, 1);
+  background-image: url('Mask Group.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 947.43px;
+  left: -153px;
+  top: -101px;
+}
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   }
+  header li{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+    font-size: 17px
+  }
+  header a{
+    text-decoration: none;
+    color: white;
+  }
+  header .center {
+    position: absolute;
+    padding: 20px;
+    left: 50%;
+    transform: translatex(-50%);
+  }
+  
+  header #left {
+    float: left;
+    padding-left: 150px;
+  }
+    
+  header .right {
+     float: right;
+     padding-right: 100px;
+  }
+
+  header #phone {
+    margin-top: 200px;
+  }
+
+  header button{
+    background-color:  rgba(244, 78, 119, 1);
+    padding: 10px 16px;
+    border-radius: 8px;
+    border-style: none;
+    text-align: center;
+    color: white;
+  }
+
+  header #content {
+    padding: 300px 150px;
+  }
+
+  .creditcard{
+    margin-top: 150px;
+    margin-left: 150px;
+  }
+ 
+  .l1{
+    float: left;
+  }
+  .r1{
+    float: right;
+    padding-right: 300px;
+  }
+  .s2{
+    margin-top: 530px;
+  }
+  #l2{
+    float: left;
+    margin-left: 90px;
+  }
+  #r2{
+    float: right;
+    margin-right: 300px;
+  }
+  .s3{
+    margin-top: 1100px;
+  }
+  .l3{
+    float: left;
+    margin-left: 150px;
+  }
+  .r3{
+    float: right;
+    padding-right: 300px;
+  }
+
+  .btext{
+    font-size: 32px;
+    color:  rgba(85, 77, 222, 1);
+    ;
+  }
+  .s4{
+    margin-top: 1700px;
+    text-align: center;
+    padding-right: 300px;
+  }
+
+  .rtext{
+    font-size: 32px;
+    color: rgba(244, 78, 119, 1);
+
+  }
+
+  .s5{
+   margin-left: 300px;
+  }
+  
+  .p{
+    color: rgba(22, 25, 79, 0.85);
+    font-size: 15px;
+  }
+
+  .s6{
+    margin-left: 500px;
+    margin-bottom: 50px;
+  }
+
+  .s7{
+    float: right;
+    text-align: center;
+    margin-right: 600px;
+    color: rgba(22, 25, 79, 0.85);;
+  }
+
+  .s8{
+    margin-top: 150px;
+  }
+
+  .rec1{
+height: 70px;
+width: 700px;
+left: 247px;
+top: 4446px;
+border-radius: 50px;
+background-color: white;
+margin-left: 300px;
+  }
+
+.rec2{
+  margin-top: 20px;
+  height: 70px;
+width: 700px;
+left: 247px;
+top: 4446px;
+border-radius: 50px;
+background-color: white;
+margin-left: 300px;
+}
+
+.rec3{
+  margin-top: 20px;
+  height: 70px;
+width: 700px;
+left: 247px;
+top: 4446px;
+border-radius: 50px;
+background-color: white;
+margin-left: 300px;
+}
+
+.rec4{
+  margin-top: 20px;
+  height: 70px;
+width: 700px;
+left: 247px;
+top: 4446px;
+border-radius: 50px;
+background-color: white;
+margin-left: 300px;
+}
+
+.rec5{
+margin-top: 20px;
+height: 70px;
+width: 700px;
+left: 247px;
+top: 4446px;
+border-radius: 50px;
+background-color: white;
+margin-left: 300px;
+}
+
+.footer{
+height: 300px;
+background-color:  rgba(22, 25, 79, 1);
+margin-top: 100px
+;
+}
+
+.f1{
+  float: left;
+  padding-top: 60px;
+  padding-left: 300px;
+  color: white;
+
+}
+
+.f2{
+  float: right;
+  padding-top: 50px;
+  padding-right: 90px;
+  color: white;
+}
+
+.b2{
+  background-color:  rgba(22, 25, 79, 0.85);
+  padding: 5px 25px;
+  text-align: left;
+  border-radius: 12px;
+  border-style: none;
+}
+
+#img1{
+  height: 900px; 
+  width:350px;
+  background-color: white;
+  border-radius: 30px;
+}
+
+#b3{
+    background-color:  rgba(244, 78, 119, 1);
+    padding: 10px 16px;
+    border-radius: 8px;
+    border-style: none;
+    text-align: center;
+    color: white;
+    margin-left: 130px;
+}
+
+header button:hover{
+  cursor: pointer;
+  background-color: purple;
+}
+
+.b2:hover{
+  cursor: pointer;
+  background-color: purple;
+}
